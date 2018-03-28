@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">Touest Guide</string>
+    <string name="cairo_catogry">Cairo</string>
+    <string name="luxor_catogry">Luxor</string>
+    <string name="alex_catogry">Alexandria</string>
+    <string name="giza_catogry">Giza</string>
+    <string name="cairo_tower">Cairo Tower</string>
+    <string name="cairo_tower_location">Zamalek,Cairo Governorate</string>
+    <string name="egypt_museum">Egypt Museum</string>
+    <string name="egypt_museum_location">15 Meret Basha, Ismailia, Qasr an Nile, Cairo Governorate</string>
+    <string name="mosque_moha_ali">Mosque Muhammad Ali</string>
+    <string name="mosque_moha_ali_location">Al Abageyah, Qism El-Khalifa, Cairo Governorate"</string>
+    <string name="pyramid_djoser">Pyramid of Djoser</string>
+    <string name="pyramid_djoser_location">Saqarah, Al Badrashin, Giza Governorate</string>
+    <string name="museum_of_islamicart"> Museum of Islamic Art</string>
+    <string name="museum_of_islamicart_location">Saqarah, Al Badrashin, Giza Governorate</string>
+
+    <string name="mgreatSphinxofGiza"> Great Sphinx of Giz</string>
+    <string name="mgreatSphinxofGiza_location">Al Haram, Giza Governorate</string>
+    <string name="pyramids_of_giza">Pyramids of Giza</string>
+    <string name="pyramids_of_giza_location"> Al Haram, Giza Governorate</string>
+    <string name="giza_zoo">Giza Zoo</string>
+    <string name="giza_zoo_location"> Charles De Gaulle, Oula, Giza, 12612</string>
+    <string name="orman_garden">Orman Garden</string>
+    <string name="orman_garden_location"> Square, Oula, Giza, Giza Governorate</string>
+    <string name="mukhtar_museum">Mukhtar Museum</string>
+    <string name="mukhtar_museum_location">Mahmoud Mokhtar, Zamalek, Giza Governorate</string>
+
+    <string name="karnak">Karnak</string>
+    <string name="Karnak_location">El-Karnak, Luxor, Luxor Governorate, Giza Governorate</string>
+    <string name="luxor_temple">Luxor Temple</string>
+    <string name="luxor_temple_location">Luxor City, Luxor, Luxor Governorate</string>
+    <string name="valley_of_the_kings">Valley of the Kings</string>
+    <string name="valley_of_the_kings_location">Luxor, New Valley Governorate</string>
+    <string name="mummification_museum">Mummification Museum</string>
+    <string name="mummification_museum_location"> Luxor City, Luxor, Luxor Governorate</string>
+    <string name="great_hypostyleh_hall">Great Hypostyle Hall</string>
+    <string name="great_hypostyleh_hall_location">Mahmoud Mokhtar, Zamalek, Giza Governorate</string>
+
+    <string name="citadel_of_qaitbay">Citadel of Qaitbay</string>
+    <string name="citadel_of_qaitbay_location">As Sayalah Sharq, Qesm Al Gomrok, Alexandria Governorate</string>
+
+    <string name="catacombsof_komel_shoqafa">Catacombs of Kom el Shoqafa</string>
+    <string name="catacombsof_komel_shoqafa_location">Qesm Al Gomrok, Alexandria</string>
+
+    <string name="graeco_roman_nuseum">Graeco-Roman Museum</string>
+    <string name="graeco_roman_nuseum_location"> Al Mesallah Sharq, Qesm Al Attarin, Alexandria Governorate</string>
+
+    <string name="calligraphy_museum_moharam_bek">Calligraphy Museum Moharam Bek</string>
+    <string name="calligraphy_museum_moharam_bek_location">Qism Moharram Bek, Alexandria Governorate</string>
+
+    <string name="el_montazah">El Montazah</string>
+    <string name="el_montazah_location">Al Mandarah Bahri, Qism El-Montaza, Alexandria Governorate</string>
+
+</resources>
